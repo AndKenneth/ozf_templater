@@ -1,0 +1,23 @@
+[CENTER][IMG]http://i.imgur.com/NESdiFj.png[/IMG][/CENTER]
+
+
+[B][I]<RoundTitle>[/I][/B]
+
+[B]Home Team: [/B]<HomeTeam>
+[B]Away Team: [/B]<AwayTeam>
+
+[INDENT][B]Maps:[/B]
+[LIST]
+<MapPool>
+[/LIST]
+[/INDENT]
+
+[LIST]
+[*]Scores must be reported both here.
+[*]Livelogs or logs.tf MUST be linked in this thread. If logging is not available, scoreboard screenshots must be taken.
+[*]Should any non-ozfortress server be used for this match, STV demos MUST be linked in this thread.
+[*]Any mercenaries used MUST be stated in this thread.
+[/LIST]
+[B]To be played between: <StartDate> and <EndDate> (inclusive)[/B]
+
+[CENTER][IMG]http://i.imgur.com/fSTAjzM.png[/IMG][/CENTER]

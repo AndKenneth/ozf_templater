@@ -1,0 +1,34 @@
+[
+    {
+        "RoundTitle": "[SC16] Test Match One",
+        "StartDate": "Monday 14th December",
+        "EndDate": "Sunday 20th December 2015",
+        "MapPool": ["cp_badlands", "cp_process_final", "cp_snakewater_final1", "cp_granary_pro_b10", "koth_product_rc8", "cp_sunshine_rc8", "cp_gullywash_final1", "cp_metalworks_rc7"],
+        "Matchups": [
+            {
+                "HomeTeam": "Idiots Inc",
+                "AwayTeam": "Nerds LLC"
+            },
+            {
+                "HomeTeam": "brodogs sucks",
+                "AwayTeam": "brodogs rocks"
+            }
+        ]
+    },
+    {
+        "RoundTitle": "[SC16] Test Match Two",
+        "StartDate": "Monday 14th December",
+        "EndDate": "Sunday 20th December 2015",
+        "MapPool": ["cp_badlands", "cp_process_final", "cp_snakewater_final1", "cp_granary_pro_b10", "koth_product_rc8", "cp_sunshine_rc8", "cp_gullywash_final1", "cp_metalworks_rc7"],
+        "Matchups": [
+            {
+                "HomeTeam": "Bad Players",
+                "AwayTeam": "Even Worse Players"
+            },
+            {
+                "HomeTeam": "far out you guys suck",
+                "AwayTeam": "Best team in the world"
+            }
+        ]
+    }
+]
