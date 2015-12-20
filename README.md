@@ -7,10 +7,10 @@ Full disclosure: this is made for internal ozfortress use and therefore is very 
 + You must have [python 3](https://www.python.org/downloads/) installed
 
 ## Instructions
-1. Download or clone this repository to your local computer.
+1. [Download](https://github.com/AndKenneth/ozf_templater/archive/master.zip) or clone this repository to your local computer.
 2. Edit replace_rules.json with the details of the current round you are generating. Be sure to follow the exact format or else you will have a bad time.
 3. edit the sc16.txt file if you need things tweaked for your particular round that are not defined in the included json file.
-4.  run the templater.py file. You may have to set your file association to use python instead of a text editor. 
+4.  run the templater.py file. You may have to set your file association to use python instead of a text editor.
 
 ## Support
 I'm assuming anyone using this is an ozfortress admin, so just contact me. If you're not, don't bother using this. If you're some poor compsci student looking for code examples, you're most definitely in the wrong place.
